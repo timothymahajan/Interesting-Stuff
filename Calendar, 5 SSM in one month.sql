@@ -1,7 +1,5 @@
---5 Fridays, 5 Saturdays, and 5 Sundays in a month – happens only every 823 years?
+--5 Fridays, 5 Saturdays, and 5 Sundays in a month â€“ happens only every 823 years?
 --Can SQL help us take a look at this?
-
-
 
 with calendar1 as 
 (
