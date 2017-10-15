@@ -1,6 +1,6 @@
 --Eight queens puzzle
 
---The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard 
+--The eight queens puzzle is the problem of placing eight chess queens on an 8Ã—8 chessboard 
 --so that no two queens attack each other. 
 --Thus, a solution requires that no two queens share the same row, column, or diagonal. 
 
