@@ -18,4 +18,6 @@ Portraits
 <br>
 <img height = "200" src ="https://i.imgur.com/cHoI8QH.png"/>
 <br>
+[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_1.sql)
 <img height = "175" src ="https://i.imgur.com/aDrdNZE.jpg"/>
+[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_2.sql)
