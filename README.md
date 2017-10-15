@@ -14,7 +14,7 @@ Interesting problems solved with T-SQL. Taken from many different sources.
 | [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Pascals%20Triangle/Pascal_Triangle.sql)
 
 
-<font size="100"><b>Portraits</b></font>
+<b>Portraits</b>
 <br>
 <img height = "225" src ="https://i.imgur.com/cHoI8QH.png"/>
 <br>
