@@ -1,5 +1,6 @@
 # Interesting Stuff
-Interesting problems solved with T-SQL.
+
+Interesting problems solved with T-SQL. Taken from many different sources.
 
 | Problem  | T-SQL |
 | ------------- | ------------- |
@@ -11,3 +12,10 @@ Interesting problems solved with T-SQL.
 | [Finding the Missing Number](http://www.geeksforgeeks.org/find-the-missing-number/) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Finding%20the%20Missing%20Number/Missing_Number.sql)
 | [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Tower%20of%20Hanoi/Hanoi.sql)
 | [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Pascals%20Triangle/Pascal_Triangle.sql)
+
+
+Portraits
+<br>
+<img height = "175" src ="https://i.imgur.com/cHoI8QH.png"/>
+<br>
+<img height = "175" src ="https://i.imgur.com/aDrdNZE.jpg"/>
