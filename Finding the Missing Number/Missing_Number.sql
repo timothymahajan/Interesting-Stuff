@@ -8,5 +8,3 @@ declare @last int = len(replace(replace(replace(replace(replace(replace(replace(
 with num as (select 1 as num, cast('1' as varchar(max)) as arr union all select num + 1, arr + '^' + cast((num + 1) as varchar(max)) from num where num < @last) 
 select @sql = 'select ' + replace(@array, ',', '^') + '^'  + (select arr from num where num = @last) option (maxrecursion 0);
 exec(@sql);
-
-
