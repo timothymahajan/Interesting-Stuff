@@ -16,8 +16,9 @@ Interesting problems solved with T-SQL. Taken from many different sources.
 
 Portraits
 <br>
-<img height = "200" src ="https://i.imgur.com/cHoI8QH.png"/>
+<img height = "250" src ="https://i.imgur.com/cHoI8QH.png"/>
 <br>
 [Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_1.sql)
+<br>
 <img height = "175" src ="https://i.imgur.com/aDrdNZE.jpg"/>
 [Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_2.sql)
