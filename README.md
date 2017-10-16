@@ -16,10 +16,13 @@ Interesting problems solved with T-SQL. Taken from many different sources.
 
 <b>Portraits</b>
 <br>
-<img height = "225" src ="https://i.imgur.com/cHoI8QH.png"/>
-<br>
-[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_1.sql)
-<br>
-<img height = "175" src ="https://i.imgur.com/aDrdNZE.jpg"/>
-<br>
-[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_2.sql)
+<div class="image123">
+    <div class="imgContainer">
+        <img src="https://i.imgur.com/cHoI8QH.png" height="200" width="200"/>
+        <p>[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_1.sql)</p>
+    </div>
+    <div class="imgContainer">
+         <img src="https://i.imgur.com/aDrdNZE.jpg"/ height="200" width="200"/>
+        <p>[Code that produced this image](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Images/TimothyMahajan/Portrait_Version_2.sql)</p>
+    </div>
+</div>
