@@ -8,9 +8,9 @@
 
 -- Solution
 
--- The frog can make at the most 10 jumps.
--- To model this situation, we will assume that every time it makes excactly 10 jumps, however, someof the jumps are of length 0.
--- We will eliminate 0-length jumpa after we are done modeling.
+-- The frog can make at most 10 jumps.
+-- To model this situation, I will assume that every time it makes excactly 10 jumps, however, some of the jumps are of length 0.
+-- I will eliminate 0-length jumps after I am done modeling.
 
 with 
 
