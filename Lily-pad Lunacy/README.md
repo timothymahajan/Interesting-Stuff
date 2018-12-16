@@ -4,7 +4,10 @@
 <br>
 <br>
 <p>
-  The Lily-pad Lunacy problem from Oxford CS interview samples solved with both 
-  <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force.sql">brute force (searching among all cases)</a>  
+  The Lily-pad Lunacy problem from the Oxford CS interview samples solved with T-SQL with both brute force (searching among all cases, foolish, but playful!)  
   and 
   <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20Fibonacci.sql">Fibonnaci Series</a> .
+
+There are two brute force solutions. In the <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force.sql">first</a>, the number of pads is hardcoded.
+
+
