@@ -3,7 +3,7 @@
 </b>
 
 <p>
-  Problem solved with both 
+  The Lily-pad Lunacy problem from Oxford CS interview samples solved with both 
   <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force.sql">brute force (searching among all cases)</a>  
   and 
   <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20Fibonacci.sql">Fibonnaci Series</a> .
