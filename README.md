@@ -10,8 +10,9 @@ Interesting problems solved with T-SQL. Taken from many different sources.
 | [Eight Queens Puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Eight%20Queens%20Puzzle/Eight_Queens_Puzzle.sql)
 | [Einstein's Puzzle](https://web.stanford.edu/~laurik/fsmbook/examples/Einstein'sPuzzle.html) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Einstein%20Puzzle/Einstein_Logic_Puzzle.sql)
 | [Finding the Missing Number](http://www.geeksforgeeks.org/find-the-missing-number/) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Finding%20the%20Missing%20Number/Missing_Number.sql)
-| [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Tower%20of%20Hanoi/Hanoi.sql)
+| [Lily-pad Lunacy](https://en.wikipedia.org/wiki/Tower_of_Hanoi) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/tree/master/Lily-pad%20Lunacy)
 | [Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Pascals%20Triangle/Pascal_Triangle.sql)
+| [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) | [Solution](https://github.com/timothymahajan/Interesting-Stuff/blob/master/Tower%20of%20Hanoi/Hanoi.sql)
 
 
 <b>Portraits</b>
