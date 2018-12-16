@@ -10,6 +10,7 @@
 
 -- If we know what it takes for a frog to reach pad n,
 -- we can observe that pad n+1 can be reached by a jump of length 1 from pad n or by a jump of length 2 from pad n-1.
+-- (We already accounted for two jumps of length 1 from from pad n-1 when we counted the number of jumps from pad n.)
 -- Therefore, to reach pad n+1 there exist exactly the sum of ways to reach pad n-1 and pad n.
 -- Therefore, the solution represents the Fibonacci Sequence.
 
