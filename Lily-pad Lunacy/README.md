@@ -8,6 +8,6 @@
   and 
   <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20Fibonacci.sql">Fibonnaci Series</a> .
 
-There are two brute force solutions. In the <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force.sql">first</a>, the number of pads is hardcoded.
+There are two brute force solutions. In the <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force.sql">first</a>, the number of pads is hardcoded; in the <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20brute%20force%20dynamic%20solution%20that%20takes%20parameter.sql">second</a>, it is a parameter.
 
 
