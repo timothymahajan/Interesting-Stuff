@@ -4,7 +4,7 @@
 <br>
 <br>
 <p>
-  The Lily-pad Lunacy problem from the Oxford CS interview samples solved with T-SQL with both brute force (searching among all cases, foolish, but playful!)  
+  The Lily-pad Lunacy problem from the Oxford CS interview samples solved with T-SQL with both brute force (searching among all cases; foolish, but playful!)  
   and 
   <a href="https://github.com/timothymahajan/Interesting-Stuff/blob/master/Lily-pad%20Lunacy/Lily-pad%20lunacy%20with%20Fibonacci.sql">Fibonnaci Series</a> .
 
