@@ -1,5 +1,10 @@
---There is an array containing all the integers from 1 to n in some order, except that one integer is missing. 
---Suggest an efficient algorithm for finding the missing number.
+--Missing numbers.  
+--Imagine you are given a list of slightly less than 1,000,000 numbers, all different, and each between 0 and 999,999 inclusive. 
+--How could you find (in a reasonable time) a number between 0 and 999,999 that is not on the list?
+
+--In this solution we rely on the fact that one and only one number is missing out of a consecutive sequence of numbers, given in any order.
+--We have used a comma as a separator. The same principle would be applied to a larger list.
+--We can also sum them instead of XORing them, but the latter uses less memory.
 
 declare @array varchar(max) =  '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25';
 declare @sql varchar(max) = '';
