@@ -11,51 +11,22 @@
 
 --Question: What state are the doors in after the last pass? Which are open, which are closed?
 
+declare @n int = 100;
+
 with
 
-number100 AS
-(
-SELECT
-1 as num
-UNION ALL
-SELECT
-num + 1
-FROM number100
-WHERE num < 100
-),
+doors as
 
-passes as
 (
-select
-1 as cnt,
-cast('1' as varchar(max)) as base,
-cast(replicate('1', 100) as varchar(max)) as passes
-union all
-select
-cnt + 1,
-'0' + base,
-left(replicate(cast('0' as varchar(max)) + base, 100), 100)
-from passes
-where cnt < 100
-),
-
-passes100 as
-(
-select
-passes.cnt,
-passes,
-Number100.num
-from passes
-cross join number100
-),
-
-sums as
-(
-select
-num,
-SUM(cast(SUBSTRING(passes, num, 1) as int)) as sums
-from passes100
-group by num
+select 1 as step, cast('1' + replicate('0', @n-1 ) as varchar(100)) as door
+union all select step + 1,
+cast(stuff(door,  step%@n + 1, 1, case when (step%@n + 1)%(step/@n + 1) = 0 then (case substring(door, step%@n + 1, 1) when '0' then '1' else '0' end) else cast(substring(door, step%@n + 1, 1) as varchar(max)) end) as varchar(100))
+from doors where step < @n*@n
 )
 
-select num as 'Opened Doors' from sums where sums%2 = 1
+select step
+from doors
+where
+step <= @n
+and substring((select top 1 door from doors order by step desc), step, 1)  = '1'
+option (maxrecursion 0)
